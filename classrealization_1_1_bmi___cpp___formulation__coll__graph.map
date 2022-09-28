@@ -1,52 +1,52 @@
 <map id="realization::Bmi_Cpp_Formulation" name="realization::Bmi_Cpp_Formulation">
-<area shape="rect" id="node1" title="Encapsulates a bmi::Bmi model in C++ such that it can be loaded as a formulation, as such also so tha..." alt="" coords="2579,5603,2766,5885"/>
-<area shape="rect" id="node2" href="$classrealization_1_1_bmi___module___formulation.html" title=" " alt="" coords="2575,4684,2770,5553"/>
-<area shape="rect" id="node3" href="$classrealization_1_1_bmi___formulation.html" title="Abstraction of formulation with backing model object(s) that implements the BMI." alt="" coords="1647,3223,1845,3682"/>
-<area shape="rect" id="node49" href="$classrealization_1_1_bmi___module___formulation.html" title="Abstraction of a formulation with a single backing model object that implements the BMI." alt="" coords="2242,3752,2437,4607"/>
-<area shape="rect" id="node4" href="$classrealization_1_1_catchment___formulation.html" title=" " alt="" coords="1059,2900,1255,3153"/>
-<area shape="rect" id="node5" href="$classrealization_1_1_formulation.html" title=" " alt="" coords="1204,899,1387,1167"/>
-<area shape="rect" id="node6" href="$classrealization_1_1_et___aware.html" title="Interface for type that is aware of parameters for evapotranspiration in certain calculations,..." alt="" coords="375,549,519,671"/>
-<area shape="rect" id="node22" href="$classrealization_1_1_et___accountable.html" title="Interface for type that is able to account for evapotranspiration in certain calculations,..." alt="" coords="173,950,351,1115"/>
-<area shape="rect" id="node7" title=" " alt="" coords="2665,571,2744,649"/>
-<area shape="rect" id="node12" href="$class_h_y___catchment.html" title=" " alt="" coords="1713,972,1875,1093"/>
-<area shape="rect" id="node20" href="$classutils_1_1_stream_handler.html" title="This class provides a copyable interface to a std::ostream or std::ostream like object that may not s..." alt="" coords="2830,928,2969,1137"/>
-<area shape="rect" id="node25" href="$class_forcing.html" title="Forcing class providing time&#45;series precipiation forcing data to the model." alt="" coords="876,1288,1059,1879"/>
-<area shape="rect" id="node26" title=" " alt="" coords="1899,994,2059,1071"/>
-<area shape="rect" id="node37" title=" " alt="" coords="2314,2147,2533,2253"/>
-<area shape="rect" id="node41" href="$classmodels_1_1bmi_1_1_bmi___cpp___adapter.html" title="A thin wrapper class to provide convenience functions around raw BMI models written in C++,..." alt="" coords="3343,3216,3520,3689"/>
-<area shape="rect" id="node42" href="$classmodels_1_1bmi_1_1_abstract_c_lib_bmi_adapter.html" title=" " alt="" coords="3335,2907,3527,3146"/>
-<area shape="rect" id="node43" href="$classmodels_1_1bmi_1_1_bmi___adapter.html" title=" " alt="" coords="2944,1971,3143,2429"/>
-<area shape="rect" id="node45" href="$classmodels_1_1bmi_1_1_bmi___adapter.html" title="Abstract adapter interface for C++ classes to interact with the essential aspects of external models ..." alt="" coords="2967,1383,3170,1783"/>
-<area shape="rect" id="node46" href="$classmodels_1_1bmi_1_1_abstract_c_lib_bmi_adapter.html" title=" " alt="" coords="3469,2569,3661,2808"/>
-<area shape="rect" id="node47" href="$classmodels_1_1bmi_1_1_bmi___adapter.html" title=" " alt="" coords="3207,1978,3410,2422"/>
-<area shape="rect" id="node48" title=" " alt="" coords="2811,2453,2953,2545"/>
-<area shape="rect" id="node8" title=" " alt="" coords="2643,226,2767,318"/>
-<area shape="rect" id="node9" href="$class_h_y___catchment_area.html" title=" " alt="" coords="1235,2621,1399,2757"/>
-<area shape="rect" id="node10" href="$class_h_y___catchment_realization.html" title=" " alt="" coords="1333,2125,1533,2275"/>
-<area shape="rect" id="node11" title=" " alt="" coords="1359,1537,1496,1629"/>
-<area shape="rect" id="node13" title=" " alt="" coords="1417,233,1555,311"/>
-<area shape="rect" id="node15" title=" " alt="" coords="1607,1537,1815,1629"/>
-<area shape="rect" id="node21" title=" " alt="" coords="3017,564,3153,656"/>
-<area shape="rect" id="node23" title=" " alt="" coords="183,564,341,656"/>
-<area shape="rect" id="node32" title=" " alt="" coords="1028,768,1171,860"/>
-<area shape="rect" id="node33" title=" " alt="" coords="270,2981,406,3073"/>
-<area shape="rect" id="node40" title=" " alt="" coords="2710,4133,2881,4225"/>
-<area shape="rect" id="node50" title=" " alt="" coords="1931,775,2071,853"/>
-<area shape="rect" id="node14" title=" " alt="" coords="1467,5,1505,83"/>
-<area shape="rect" id="node27" title=" " alt="" coords="549,571,661,649"/>
-<area shape="rect" id="node38" title=" " alt="" coords="2379,1545,2497,1622"/>
-<area shape="rect" id="node16" href="$classdata__access_1_1_generic_data_provider.html" title=" " alt="" coords="1463,987,1637,1079"/>
-<area shape="rect" id="node17" href="$classdata__access_1_1_data_provider.html" title=" " alt="" coords="1821,491,2076,729"/>
-<area shape="rect" id="node18" href="$classdata__access_1_1_data_provider.html" title=" " alt="" coords="1732,153,1923,391"/>
-<area shape="rect" id="node19" href="$class_g_m___object.html" title=" " alt="" coords="1194,2154,1309,2246"/>
-<area shape="rect" id="node24" href="$structpdm03__struct.html" title=" " alt="" coords="5,145,215,399"/>
-<area shape="rect" id="node28" title=" " alt="" coords="706,994,879,1071"/>
-<area shape="rect" id="node30" title=" " alt="" coords="539,994,681,1071"/>
-<area shape="rect" id="node31" title=" " alt="" coords="375,994,515,1071"/>
-<area shape="rect" id="node29" href="$struct_a_o_r_c__data.html" title=" " alt="" coords="736,476,913,744"/>
-<area shape="rect" id="node34" title=" " alt="" coords="275,2650,401,2727"/>
-<area shape="rect" id="node35" title=" " alt="" coords="257,2154,419,2246"/>
-<area shape="rect" id="node36" title=" " alt="" coords="289,1537,419,1629"/>
-<area shape="rect" id="node39" title=" " alt="" coords="2419,994,2457,1071"/>
-<area shape="rect" id="node44" href="$classbmi_1_1_bmi.html" title=" " alt="" coords="3159,884,3322,1181"/>
+<area shape="rect" id="node1" title="Encapsulates a bmi::Bmi model in C++ such that it can be loaded as a formulation, as such also so tha..." alt="" coords="1297,5479,1484,5761"/>
+<area shape="rect" id="node2" href="$classrealization_1_1_bmi___module___formulation.html" title=" " alt="" coords="1293,4560,1488,5429"/>
+<area shape="rect" id="node3" href="$classrealization_1_1_bmi___formulation.html" title="Abstraction of formulation with backing model object(s) that implements the BMI." alt="" coords="2107,3070,2304,3529"/>
+<area shape="rect" id="node49" href="$classrealization_1_1_bmi___module___formulation.html" title="Abstraction of a formulation with a single backing model object that implements the BMI." alt="" coords="1585,3628,1780,4483"/>
+<area shape="rect" id="node4" href="$classrealization_1_1_catchment___formulation.html" title=" " alt="" coords="2107,2717,2303,2956"/>
+<area shape="rect" id="node5" href="$classrealization_1_1_formulation.html" title=" " alt="" coords="1857,917,2039,1185"/>
+<area shape="rect" id="node6" href="$classrealization_1_1_et___aware.html" title="Interface for type that is aware of parameters for evapotranspiration in certain calculations,..." alt="" coords="2136,583,2280,704"/>
+<area shape="rect" id="node25" href="$classrealization_1_1_et___accountable.html" title="Interface for type that is able to account for evapotranspiration in certain calculations,..." alt="" coords="2457,969,2634,1134"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1119,605,1198,682"/>
+<area shape="rect" id="node12" href="$class_h_y___catchment.html" title=" " alt="" coords="2064,991,2227,1112"/>
+<area shape="rect" id="node22" href="$classutils_1_1_stream_handler.html" title="This class provides a copyable interface to a std::ostream or std::ostream like object that may not s..." alt="" coords="1163,947,1301,1156"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2559,2798,2719,2875"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1571,1993,1789,2100"/>
+<area shape="rect" id="node39" href="$classmodels_1_1bmi_1_1_bmi___cpp___adapter.html" title="A thin wrapper class to provide convenience functions around raw BMI models written in C++,..." alt="" coords="355,3063,533,3536"/>
+<area shape="rect" id="node40" href="$classmodels_1_1bmi_1_1_abstract_c_lib_bmi_adapter.html" title=" " alt="" coords="348,2717,540,2956"/>
+<area shape="rect" id="node41" href="$classmodels_1_1bmi_1_1_bmi___adapter.html" title=" " alt="" coords="826,1817,1025,2276"/>
+<area shape="rect" id="node43" href="$classmodels_1_1bmi_1_1_bmi___adapter.html" title="Abstract adapter interface for C++ classes to interact with the essential aspects of external models ..." alt="" coords="816,1325,1019,1725"/>
+<area shape="rect" id="node46" href="$classmodels_1_1bmi_1_1_abstract_c_lib_bmi_adapter.html" title=" " alt="" coords="215,2416,407,2655"/>
+<area shape="rect" id="node47" href="$classmodels_1_1bmi_1_1_bmi___adapter.html" title=" " alt="" coords="599,1825,801,2269"/>
+<area shape="rect" id="node48" title=" " alt="" coords="1107,2300,1250,2392"/>
+<area shape="rect" id="node8" title=" " alt="" coords="829,226,953,318"/>
+<area shape="rect" id="node9" href="$class_h_y___catchment_area.html" title=" " alt="" coords="2146,2467,2310,2603"/>
+<area shape="rect" id="node10" href="$class_h_y___catchment_realization.html" title=" " alt="" coords="2335,1971,2535,2122"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2351,2489,2518,2581"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2139,1479,2277,1571"/>
+<area shape="rect" id="node13" href="$class_h_y___hydro_feature.html" title=" " alt="" coords="1960,597,2112,689"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2274,233,2411,311"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2352,1479,2560,1571"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1223,597,1359,689"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2592,597,2749,689"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2911,2791,3047,2883"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1183,4009,1353,4101"/>
+<area shape="rect" id="node44" title=" " alt="" coords="726,794,893,871"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1443,787,1597,879"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3155,1224,3295,1301"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2323,5,2362,83"/>
+<area shape="rect" id="node34" title=" " alt="" coords="3209,423,3321,500"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1599,1487,1716,1564"/>
+<area shape="rect" id="node18" href="$classdata__access_1_1_generic_data_provider.html" title=" " alt="" coords="2658,1005,2833,1097"/>
+<area shape="rect" id="node19" href="$classdata__access_1_1_data_provider.html" title=" " alt="" coords="2910,524,3165,763"/>
+<area shape="rect" id="node20" href="$classdata__access_1_1_data_provider.html" title=" " alt="" coords="2930,153,3121,391"/>
+<area shape="rect" id="node21" href="$class_g_m___object.html" title=" " alt="" coords="2145,2001,2260,2093"/>
+<area shape="rect" id="node24" title=" " alt="" coords="977,233,1071,311"/>
+<area shape="rect" id="node27" href="$structpdm03__struct.html" title=" " alt="" coords="2697,145,2906,399"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2916,2497,3041,2574"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2897,2001,3060,2093"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2919,1479,3049,1571"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2909,1013,3059,1090"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1590,1013,1629,1090"/>
+<area shape="rect" id="node42" href="$classbmi_1_1_bmi.html" title=" " alt="" coords="543,903,705,1200"/>
 </map>
